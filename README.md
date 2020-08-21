@@ -1,2 +1,3 @@
 # Double-Asset-Price-Comparison
-Compares the price changes in two assets using data obtained from Yahoo FInance!
+Sick of using TradingView? 
+Use this script to compare the price changes in two assets using data obtained from Yahoo Finance!
